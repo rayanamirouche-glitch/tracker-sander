@@ -1,1 +1,52 @@
-[{"name": "La Méthode Couverture Fréjus", "q": "la méthode couverture couvreur fréjus", "kw": "couvreur fréjus", "target": "méthode couverture", "ll": "43.4330,6.7370"}, {"name": "L'Art de la Toiture Vidauban", "q": "l'art de la toiture couvreur vidauban", "kw": "couvreur vidauban", "target": "art de la toiture", "ll": "43.4270,6.4320"}, {"name": "ProRenov Couvreur Les Arcs", "q": "prorenov couvreur les arcs toitures", "kw": "couvreur les arcs sur argens", "target": "prorenov", "ll": "43.4630,6.4740"}, {"name": "Perfect Signature Saint-Raphaël", "q": "perfect signature couvreur saint raphaël", "kw": "couvreur saint-raphaël", "target": "perfect signature", "ll": "43.4250,6.7680"}, {"name": "Les Rois de la Toiture Ste-Maxime", "q": "les rois de la toiture sainte maxime", "kw": "couvreur sainte-maxime", "target": "rois de la toiture", "ll": "43.3090,6.6380"}]
+[
+ {
+  "name": "La méthode couverture frejus",
+  "q": "La méthode couverture frejus",
+  "target": "la methode couverture",
+  "ll": "43.433,6.737",
+  "kw": "couvreur frejus",
+  "city": "Fréjus",
+  "link": "https://maps.app.goo.gl/HuGBA9A8tZj25yFRA",
+  "region": "Est-Var"
+ },
+ {
+  "name": "Vidauban couvreur Lart de la toiture",
+  "q": "Vidauban couvreur Lart de la toiture",
+  "target": "vidauban couvreur lart",
+  "ll": "43.427,6.432",
+  "kw": "couvreur vidauban",
+  "city": "Vidauban",
+  "link": "https://maps.app.goo.gl/Xd7se1aniwNKgrW2A",
+  "region": "Est-Var"
+ },
+ {
+  "name": "Arc en ciel couvreur les arcs toitures",
+  "q": "Arc en ciel couvreur les arcs toitures",
+  "target": "arc en ciel",
+  "ll": "43.463,6.478",
+  "kw": "couvreur les arcs",
+  "city": "Les Arcs",
+  "link": "https://maps.app.goo.gl/qe7JZyEnKzJoJGaE9",
+  "region": "Est-Var"
+ },
+ {
+  "name": "Saint Raphaël Perfect Signature couvreur",
+  "q": "Saint Raphaël Perfect Signature couvreur",
+  "target": "saint raphael perfect",
+  "ll": "43.425,6.768",
+  "kw": "couvreur saint raphael",
+  "city": "St-Raphaël",
+  "link": "https://maps.app.goo.gl/Ebon36qVz7tNt6NP9",
+  "region": "Est-Var"
+ },
+ {
+  "name": "Les rois de la toiture à St maxime",
+  "q": "Les rois de la toiture à St maxime",
+  "target": "les rois de",
+  "ll": "43.309,6.639",
+  "kw": "couvreur sainte maxime",
+  "city": "Ste-Maxime",
+  "link": "https://maps.app.goo.gl/PerTnLr1WTgH3NAi8",
+  "region": "Est-Var"
+ }
+]
