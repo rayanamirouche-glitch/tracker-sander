@@ -3,3 +3,6 @@
 
 [functions."snapshot_avis"]
   schedule = "0 3 * * *"
+
+[functions."snapshot_rank"]
+  schedule = "20 5 * * 1,4"
