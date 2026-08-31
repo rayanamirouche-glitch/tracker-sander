@@ -6,7 +6,8 @@
   "ll": "43.3793,6.7146",
   "kw": "couvreur fréjus",
   "city": "Fréjus",
-  "link": "https://www.google.com/maps/place/?q=place_id:ChIJCZhcaUG9zhIRInPoJk97BAw"
+  "link": "https://www.google.com/maps/place/?q=place_id:ChIJCZhcaUG9zhIRInPoJk97BAw",
+  "obj": 10
  },
  {
   "name": "Vidauban couvreur L'art de la toiture",
@@ -15,7 +16,8 @@
   "ll": "43.4069,6.4282",
   "kw": "couvreur vidauban",
   "city": "Vidauban",
-  "link": "https://www.google.com/maps/place/?q=place_id:ChIJWfCOx5izzhIR8uvCl3MadMA"
+  "link": "https://www.google.com/maps/place/?q=place_id:ChIJWfCOx5izzhIR8uvCl3MadMA",
+  "obj": 10
  },
  {
   "name": "ProRenov couvreur les arcs toitures",
@@ -24,7 +26,8 @@
   "ll": "43.4595,6.4710",
   "kw": "couvreur les arcs sur argens",
   "city": "Les Arcs",
-  "link": "https://www.google.com/maps/place/?q=place_id:ChIJycZqr66tzhIRCyCGhT1hyq0"
+  "link": "https://www.google.com/maps/place/?q=place_id:ChIJycZqr66tzhIRCyCGhT1hyq0",
+  "obj": 10
  },
  {
   "name": "Saint Raphaël Perfect Signature couvreur",
@@ -33,7 +36,8 @@
   "ll": "43.4227,6.7908",
   "kw": "couvreur saint-raphaël",
   "city": "St-Raphaël",
-  "link": "https://www.google.com/maps/place/?q=place_id:ChIJA1gjuK2XzhIRdXDJtILyPTU"
+  "link": "https://www.google.com/maps/place/?q=place_id:ChIJA1gjuK2XzhIRdXDJtILyPTU",
+  "obj": 10
  },
  {
   "name": "Les rois de la toiture à St maxime",
@@ -42,6 +46,7 @@
   "ll": "43.3289,6.6122",
   "kw": "couvreur sainte-maxime",
   "city": "Ste-Maxime",
-  "link": "https://www.google.com/maps/place/?q=place_id:ChIJt2J4sDu5zhIRwWg8EBVvVRk"
+  "link": "https://www.google.com/maps/place/?q=place_id:ChIJt2J4sDu5zhIRwWg8EBVvVRk",
+  "obj": 10
  }
 ]
